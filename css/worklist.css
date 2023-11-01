@@ -1,0 +1,35 @@
+body {
+		background: url('../images/bg6.jpg') no-repeat fixed top left;
+		text-shadow: black;
+	}
+h2 {
+	font-weight: bold;
+	color: #ffffff;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	}
+table {
+	position: absolute;
+	top: 80px;
+	left: 20px;
+	}
+img {
+	position: absolute;
+	top: 525px;
+	left: 20px;
+	}
+	
+.th {
+	font-size: 16px;
+	font-family: Arial Black;
+	font-weight: bolder;
+	color: #000000;
+	background: darkgray;
+	}
+.td {
+	font-size: 14px;
+	font-weight: bold;
+	color: #ffffff;
+	line-height: 20px;
+	}

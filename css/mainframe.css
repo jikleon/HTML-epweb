@@ -1,0 +1,50 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	}
+p {
+	font-weight: bold;
+	}
+table {
+	font-weight: bold;
+	}
+.player {
+	position: absolute;
+	top: 40%;
+	left: 3px;
+	}
+.title {
+	font-weight: bold;
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	}
+.banner {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	}
+.start {
+	position: absolute;
+	top: 7px;
+	right: 20px;
+	color: #BC9C7A;
+	text-align: right;
+	font-weight: bold;
+	}
+.profPic {
+	position: absolute;
+	top: 15px;
+	right: 30px;
+	}
+.proInfo {
+	position: absolute;
+	left: 15px;
+	}
+.musicPage {
+	position: absolute;
+	top: 15px;
+	right: 20px;
+	text-align: right;
+	font-weight: bold;
+	}
