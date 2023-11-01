@@ -1,0 +1,40 @@
+﻿<html>
+	<link rel="stylesheet" type="text/css" href="css/mainframe.css"/>
+	<head>
+		<title>Alan's Music Cafe - Music</title>
+		<style type="text/css">
+			body {
+				background: #000000 url('images/bg3.jpg') no-repeat fixed top left;
+				}
+		</style>
+	</head>
+	<body>
+		<table class="musicPage">
+			<tr>
+				<td>
+					<h2><b>Why instrumental?</b></h2><br />
+					<p>純音樂是最好的音樂。</p>
+					<p>沒有歌詞，樂曲中所蘊含的意境變得無窮、無盡。<br />
+					以下介紹幾張純音樂專輯，希望你會喜歡。
+					</p>
+					<br />
+		
+					<form action="jsp/music.jsp" method="post">
+						請選擇專輯：
+							<select name="album">
+								<option value="1">In the Enchanted Garden (1996)</option>
+								<option value="2">I'm In The Mood For Love ... The Most Romantic Melodies Of All Time (2006)</option>
+								<option value="3">Desires: The Romantic Collection (2006)</option>
+								<option value="4">Mellow Jazz Cafe: Relaxing Jazz Piano Music (2010)</option>
+							</select>
+								<input type="submit" value="OK">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td><a href="javascript:javascript:history.go(-1)" target="mainFrame"><img src="images/back.gif" border="0" /></a></t
+			</tr>
+		</table>
+		
+	</body>
+</html>

@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Mac-like Menu Bar</title>
+				<script type="text/javascript" src="js/jquery.js"></script>
+				<script type="text/javascript" src="js/interface.js"></script>
+
+				<!--[if lt IE 7]>
+				 <style type="text/css">
+				 .dock img { behavior: url(iepngfix.htc) }
+				 </style>
+				<![endif]-->
+
+				<link href="css/style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<!--bottom dock -->
+			<div class="dock" id="dock2">
+			  <div class="dock-container2">
+			  <a class="dock-item2" href="home.html" target="mainFrame"><span>Home</span><img src="images/dock/home.png" alt="home" /></a>
+			  <a class="dock-item2" href="profile.html" target="mainFrame"><span>Who am I?</span><img src="images/dock/profile.png" alt="profile" /></a> 
+			  <a class="dock-item2" href="music.html" target="mainFrame"><span>Music</span><img src="images/dock/music.png" alt="music" /></a>
+			  <a class="dock-item2" href="xml/coffee.xml" target="mainFrame"><span>Coffee</span><img src="images/dock/coffee.png" alt="coffee" /></a> 
+			  <a class="dock-item2" href="worklist.html" target="mainFrame"><span>Work-list</span><img src="images/dock/notepad.png" alt="worklist" /></a>
+			  <a class="dock-item2" href="feedback.html" target="mainFrame"><span>Feedback</span><img src="images/dock/qmark.png" alt="feedback" /></a>
+			  </div>
+			</div>
+
+			<!--dock menu JS options -->
+			<script type="text/javascript">
+				
+				$(document).ready(
+					function()
+					{
+						$('#dock2').Fisheye(
+							{
+								maxWidth: 40,
+								items: 'a',
+								itemsText: 'span',
+								container: '.dock-container2',
+								itemWidth: 40,
+								proximity: 75,
+								alignment : 'left',
+								valign: 'bottom',
+								halign : 'center'
+							}
+						)
+					}
+				);
+
+			</script>
+		<img class="logo" src="images/logo.gif" />
+		<a href="http://www.ul5.com"><img style="position:absolute;bottom:30px;right:10px;" src="http://www.ul5.com/c0cd9e3e2e99c286ec5e1693fb1491c65.jpg" alt="ブログパーツUL5" border="0"></a>
+		<span class="bottom">Copyright &#169; 2011 Alan Chan. All rights reserved.</span>
+	</body>
+</html>
