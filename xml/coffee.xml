@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/coffee.xsl" ?>
+<coffees>
+	<coffee id="01">
+		<name>Black Coffee</name>
+		<place>埃塞俄比亞</place>
+		<history>埃塞俄比亞是咖啡的原產地。人民最初咀嚼這種植物果實以提神，後來烘烤磨碎摻入麵粉做成麵包，作為勇士的食物，以提高作戰的勇氣。
+		直到 11 世紀左右，人們才開始用水煮咖啡做為飲料。</history>
+		<feature>Black Coffee（黑咖啡，香港俗稱「齋啡」），是不加任何修飾的咖啡，黑咖啡帶來的是品味咖啡的原始感受。
+		黑咖啡集合了咖啡香甘醇酸苦五味的特點，它原始而又粗獷，深邃而又耐人尋味。</feature>
+		<image>../images/black.jpg</image>
+	</coffee>
+	<coffee id="02">
+		<name>Ipoh White Coffee</name>
+		<place>馬來西亞</place>
+		<history>白咖啡是馬來西亞的特產，約有 100 多年的歷史。
+		白咖啡並不是指咖啡的顏色是白色的，而是由於以特殊烘焙方式烘製咖啡豆，使沖製出的咖啡顏色比普通咖啡更清淡柔和，味道純正，故得名為白咖啡。</history>
+		<feature>白咖啡以傳統獨特工藝未添加任何人工添加劑或焦糖經低溫烘培（烤制）而成，將高溫碳烤所產生的焦苦與酸澀味的降到最低，
+		保留原始咖啡的自然風味及醇厚香味，不含反式脂肪，咖啡因含量及熱量亦低於普通咖啡。</feature>
+		<image>../images/white.jpg</image>
+	</coffee>
+	<coffee id="03">
+		<name>Espresso</name>
+		<place>義大利</place>
+		<history>始於 20 世紀初，但直到 1940 年代中期以前，它是種單獨透過蒸氣壓力製作出的飲品。</history>
+		<feature>以極熱但非沸騰的熱水，藉由高壓沖過研磨成很細的咖啡粉末來沖製。口感強烈，質感濃稠。
+		沖製恰當的濃縮咖啡有項特點——咖啡脂(crema)的存在：一種紅棕色的泡沫，漂浮在濃縮咖啡表面。
+		其由植物油、蛋白質以及醣類所構成。</feature>
+		<image>../images/espresso.jpg</image>
+	</coffee>
+	<coffee id="04">
+		<name>Cappuccino（又有「加倍情濃」的譯名）</name>
+		<place>義大利</place>
+		<history>創設於 1525 年以後的聖方濟會的修士都穿著褐色道袍，頭戴一頂尖尖帽子。
+		傳到義大利時，當地人給他們的服飾取名「Cappuccino」。
+		因為聖方濟修士的頭巾像非洲的一種僧帽猴（Capuchin），此字的義大利文源自頭巾（即Cappuccio），指寬鬆長袍和小尖帽。</history>
+		<feature> Cappuccino 與 Latte 的差別在與多了奶泡，調法是 Espresso、鮮奶與奶泡各 1：1：1。
+		之後可以在奶泡上灑上些許肉桂粉、可可粉或是橙橘檸檬類的果皮絲用以裝飾或增加風味。
+		STARBUCKS的Cappuccino 會在倒奶之後用勺子放上奶泡。</feature>
+		<image>../images/cappuccino.png</image>
+	</coffee>
+	<coffee id="05">
+		<name>Latté</name>
+		<place>義大利</place>
+		<history>Latté 一詞在義大利語意思是鮮奶。在英語的世界，泛指由熱鮮奶所沖泡的咖啡。</history>
+		<feature>一般的拿鐵咖啡的成分是三分之一的 Espresso 加三分之二的鮮奶，通常不加入奶泡。
+		它與 Cappuccino 相比，有更多鮮奶味道。</feature>
+		<image>../images/latte.jpg</image>
+	</coffee>
+	<coffee id="06">
+		<name>Caramel Macchiato</name>
+		<place>義大利</place>
+		<history>義大利語中Macchiato 的意思是烙印、印染。而 Caramel 就是焦糖，Caramel Macchiato 也就是指「甜蜜的印記」。</history>
+		<feature>Caramel Macchiato 和 Latté、Cappuccino 相較下，其牛奶成分最多，適合喜歡重牛奶口味的人。
+		焦糖醬比較濃稠，不會在奶泡上散開，也會層次分明、不易混和。</feature>
+		<image>../images/c_macchiato.jpg</image>
+	</coffee>
+	<coffee id="07">
+		<name>Mocha</name>
+		<place>據說為美國</place>
+		<history>Mocha 的名字起源於位於葉門的紅海海邊小鎮摩卡。
+		這個地方在 15 世紀時壟斷了咖啡的出口貿易，對銷往阿拉伯半島區域的咖啡貿易影響特別大。
+		Mocha 也是一種「巧克力色」的咖啡豆（來自葉門的摩卡），這讓人產生了在咖啡混入巧克力的聯想，並且發展出巧克力濃縮咖啡飲料。
+		在歐洲，Mocha 既可能指這種飲料，也可能僅僅指用摩卡咖啡豆泡出來的咖啡。</history>
+		<feature>和 Latté 一樣，它通常是由三分之一的 Espresso 和三分之二的奶沫配成，不過它還會加入少量巧克力。
+		巧克力通常會以巧克力糖漿的形式添加，但某些咖啡售賣系統便會以即溶巧克力粉取代。
+		有時，打起了的奶油、可可粉，和綿花糖都會加在上面用來加重咖啡的香味和作為裝飾之用。</feature>
+		<image>../images/mocha.jpg</image>
+	</coffee>
+	<coffee id="08">
+		<name>Americano</name>
+		<place>美國</place>
+		<history>Americano 來自戰爭時期在歐洲的美國軍人將熱水兌進歐洲常見的小份濃縮咖啡的習慣。
+		因為美國人對咖啡的製備一般都比較隨意且簡單，這種方法很快隨著美國連鎖店在世界上的普及而流行開。</history>
+		<feature>一般情況下，一杯 Americano 由兩份 Espresso 加 30 - 470ml 熱水勾兌而成。
+		因為熱水加入的分量很大，Americano 無論外觀還是口感都會顯得很淡。
+		此外，咖啡的香氣也會因此受到些許破壞，並不能如傳統的意式咖啡般維持長久。
+		儘管加入了熱水稀釋，Americano 的咖啡因含量依然較一般的咖啡來得高。不過它的熱量卻非常低。</feature>
+		<image>../images/americano.jpg</image>
+	</coffee>
+	<coffee id="09">
+		<name>Irish Coffee</name>
+		<place>愛爾蘭</place>
+		<history>於 1940 年代由一位港口的主廚 Joseph Sheridan 所發明。
+		當時天氣十分寒冷，就在接待一群美國乘客之時，Joseph 在咖啡中加入了威士忌，希望為客人提供溫暖。
+		當時，客人向 Joseph 詢問這是不是巴西咖啡，他便回答道：「這是愛爾蘭咖啡。」</history>
+		<feature>Irish Coffee 的特色就在於它含有酒精。傳統上，愛爾蘭咖啡是由熱咖啡、愛爾蘭威士忌、奶油、糖混合攪拌而成。
+		始創的處方並沒有明確指明使用起泡的奶油。</feature>
+		<image>../images/i_coffee.jpg</image>
+	</coffee>
+	<coffee id="10">
+		<name>Viennese</name>
+		<place>奧地利</place>
+		<history>維也納咖啡由一位馬車夫愛因‧舒伯納發明。
+		也許是由於這個原因，今天，人們偶爾也會稱維也納咖啡為「單頭馬車」。</history>
+		<feature>雪白的鮮奶油上，灑落五色繽紛七彩米，扮相非常漂亮；
+		隔著甜甜的巧克力糖漿、冰涼的鮮奶油啜飲滾燙的熱咖啡，更是別有風味。</feature>
+		<image>../images/viennese.jpg</image>
+	</coffee>
+	<coffee id="11">
+		<name>cà phê sữa đá</name>
+		<place>越南</place>
+		<history>越南語 cà phê sữa đá 意思就是冰咖啡加牛奶，是一種滴漏咖啡。</history>
+		<feature>cà phê sữa đá 的沖製過程是將咖啡粉盛在特殊的金屬炮製過濾器，倒入滾水，讓咖啡一滴一滴流到杯子裡；
+		等咖啡滴完，隨每個人口味加糖或者加點煉奶攪拌好即可飲用。
+		在越南有兩種飲法是冷飲和熱飲的。熱飲的咖啡，人們主要在冬天喝的，泡製的時候將杯子放在另一個有熱水的小碗裡以保暖。
+		冷飲咖啡則多在炎熱的夏季飲用，是咖啡泡製後再加上冰塊的。</feature>
+		<image>../images/v_coffee.jpg</image>
+	</coffee>
+	<coffee id="12">
+		<name>Blue Mountain</name>
+		<place>牙買加</place>
+		<history>Blue Mountain 譯名藍山咖啡，由產自牙買加藍山的咖啡豆沖泡而成，因而得名。</history>
+		<feature>藍山咖啡略帶酸味，苦澀味少，是一種有名的咖啡品種。加上產量極少，因此價格昂貴。
+		藍山位於北緯 25 度和南緯 25 度之間的咖啡帶，真正的藍山咖啡數量非常少，每年產量不過4萬袋（約240萬公斤）。</feature>
+		<image>../images/b_mountain.jpg</image>
+	</coffee>
+	<coffee id="13">
+		<name>Kopi Luwak</name>
+		<place>印尼</place>
+		<history>Kopi Luwak 譯名麝香貓咖啡，是由印尼椰子貓（一種麝香貓）的糞便作為原料所生產，故又名「貓屎咖啡」。</history>
+		<feature>貓屎咖啡的苦澀味較低，此因椰子貓以咖啡豆為食，在其胃內完成發酵後，破壞蛋白質，產生短肽和更多的自
+		由胺基酸之故。
+		由於產量極少，故為全球最昂貴的咖啡，大約十七克的貓屎咖啡就價值二百港元。</feature>
+		<image>../images/kopi_luwak.jpg</image>
+	</coffee>
+	<coffee id="14">
+		<name>鴛鴦</name>
+		<place>香港</place>
+		<history>潮州人林木河在 1952 年於香港中環創辦「蘭芳園」茶餐廳，並首創港式飲料「鴛鴦」。</history>
+		<feature>鴛鴦由港式奶茶和咖啡混和而成，比例為 7:3，飲用者能同時享受咖啡的濃香和奶茶柔滑的口感。</feature>
+		<image>../images/yy.jpg</image>
+	</coffee>
+</coffees>
